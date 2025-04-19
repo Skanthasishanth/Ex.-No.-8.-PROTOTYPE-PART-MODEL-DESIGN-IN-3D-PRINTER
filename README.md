@@ -1,6 +1,6 @@
 # Ex. No.   - PROTOTYPE PART MODEL DESIGN IN 3D PRINTER
 
-### DATE: 
+### DATE: 17-04-2025
 ## AIM: 
 ### To prototype the given part model design in 3D Printer.
 
@@ -47,8 +47,14 @@
 
 ## Output:
 
-### Name:
-### Register Number:
+### Name: Kantha Sishanth S
+### Register Number: 212222100020
 
-## RESULT:
-###   Thus a prototype of the given part model is developed using 3D Printer.
+![3 1](https://github.com/user-attachments/assets/88c5012f-988d-4da9-87d8-26177f135fad)
+
+![3 2](https://github.com/user-attachments/assets/71df9763-a4fb-44b9-8f97-e7e4bc966458)
+
+
+## Result:
+
+### Thus a prototype of the given part model is developed using 3D Printer.
